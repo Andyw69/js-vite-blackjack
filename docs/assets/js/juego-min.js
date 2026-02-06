@@ -50,7 +50,7 @@ let miModulo = (() => {
           : t === e
           ? alert("Gano el bot por empate!!!")
           : alert("Gano el bot");
-      }, 100);
+      }, 500);
     },
     h = (e) => {
       let t = 0;
